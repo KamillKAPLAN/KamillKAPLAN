@@ -8,8 +8,6 @@ Codex Bilişim Aş. şirketinin finans projesinde görev alıyorumç
 
 Kullandığım Teknolojiler :  Angular, .Net, Blazor, MSSQL, Git ve Jira
 
-Kişisel sitem : https://ridvanucdag.com
-
 ## 💻Kamil KAPLAN - Software Engineer
   
 
