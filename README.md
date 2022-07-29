@@ -2,9 +2,11 @@
 
 Peki Ben Kimim ?
 
-Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  Sentez Yazılım şirketinde Jr. FrontEnd developer olarak çalıştım..
+Kendimi sürekli geliştirmeye çalışan bir yazılım mühendisiyim.  Sentez Yazılım şirketinde FrontEnd developer olarak çalıştım..
 
-Codex Bilişim Aş. şirketinin finans projesinde görev alıyorumç
+Codex Bilişim Aş. firmasında finans projesinde görev alıyorum.
+
+Mebitech Bilişim Aş. firmasında .Net Developer olarak görev alıyorum.
 
 Kullandığım Teknolojiler :  Angular, .Net, Blazor, MSSQL, Git ve Jira
 
